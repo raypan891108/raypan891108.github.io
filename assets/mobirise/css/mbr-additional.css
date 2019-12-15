@@ -913,3 +913,17 @@ section.lazy-placeholder:after {
     padding-bottom: 1rem;
   }
 }
+.cid-rKIcjYms1L {
+  background: #149dcc;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #149dcc, #ffffff);
+}
+.cid-rKIcjYms1L .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rKIcjYms1L .video-block {
+    width: 100% !important;
+  }
+}
