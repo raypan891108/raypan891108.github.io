@@ -1137,3 +1137,39 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-rKZOCwnhlh {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rKZOCwnhlh .counter-container {
+  color: #767676;
+}
+.cid-rKZOCwnhlh .counter-container ol {
+  margin-bottom: 0;
+  counter-reset: myCounter;
+}
+.cid-rKZOCwnhlh .counter-container ol li {
+  margin-bottom: 1rem;
+}
+.cid-rKZOCwnhlh .counter-container ol li {
+  list-style: none;
+  padding-left: .5rem;
+}
+.cid-rKZOCwnhlh .counter-container ol li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  counter-increment: myCounter;
+  content: counter(myCounter);
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 40px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
