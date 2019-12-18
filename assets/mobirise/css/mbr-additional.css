@@ -1032,3 +1032,108 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-rKZLULHX3p {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rKZLULHX3p P {
+  color: #767676;
+}
+.cid-rKZMrduGPv {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rKZMrduGPv .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-rKZMrduGPv .mbr-content-text {
+  color: #767676;
+  margin-bottom: 0;
+}
+.cid-rKZMrduGPv .card {
+  word-wrap: break-word;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+.cid-rKZMrduGPv .img-text {
+  width: 64px;
+  height: 64px;
+  font-size: 32px;
+  border: 2px solid #efefef;
+  border-radius: 50%;
+}
+@media (max-width: 991px) {
+  .cid-rKZMrduGPv .img-text {
+    width: 48px;
+    height: 48px;
+    font-size: 24px;
+  }
+}
+@media (min-width: 992px) {
+  .cid-rKZMrduGPv .cards-block {
+    border-top: 2px solid #efefef;
+  }
+}
+.cid-rKZMrduGPv .cards-block .card {
+  border-bottom: 2px solid #efefef;
+  border-radius: 0;
+}
+.cid-rKZMrduGPv .cards-container {
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+  word-break: break-word;
+}
+@media (max-width: 767px) {
+  .cid-rKZMrduGPv .panel-item {
+    flex-direction: column;
+    align-items: center;
+  }
+  .cid-rKZMrduGPv .panel-item .card-img {
+    padding: 0;
+    padding-bottom: 1rem;
+  }
+}
+.cid-rKZNclLKNy {
+  background: #0f7699;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #cc2952, #0f7699);
+}
+.cid-rKZNclLKNy .image-block {
+  margin: auto;
+}
+.cid-rKZNclLKNy figcaption {
+  position: relative;
+}
+.cid-rKZNclLKNy figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rKZNclLKNy .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rKZNdke20x {
+  background: #149dcc;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #149dcc, #ffffff);
+}
+.cid-rKZNdke20x .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rKZNdke20x .video-block {
+    width: 100% !important;
+  }
+}
