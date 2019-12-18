@@ -927,3 +927,108 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-rKZJ5CcmJ1 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rKZJ5CcmJ1 P {
+  color: #767676;
+}
+.cid-rKZK1kzILp {
+  background: #0f7699;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #cc2952, #0f7699);
+}
+.cid-rKZK1kzILp .image-block {
+  margin: auto;
+}
+.cid-rKZK1kzILp figcaption {
+  position: relative;
+}
+.cid-rKZK1kzILp figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rKZK1kzILp .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rKZKHv7CjG {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rKZKHv7CjG .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-rKZKHv7CjG .mbr-content-text {
+  color: #767676;
+  margin-bottom: 0;
+}
+.cid-rKZKHv7CjG .card {
+  word-wrap: break-word;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+.cid-rKZKHv7CjG .img-text {
+  width: 64px;
+  height: 64px;
+  font-size: 32px;
+  border: 2px solid #efefef;
+  border-radius: 50%;
+}
+@media (max-width: 991px) {
+  .cid-rKZKHv7CjG .img-text {
+    width: 48px;
+    height: 48px;
+    font-size: 24px;
+  }
+}
+@media (min-width: 992px) {
+  .cid-rKZKHv7CjG .cards-block {
+    border-top: 2px solid #efefef;
+  }
+}
+.cid-rKZKHv7CjG .cards-block .card {
+  border-bottom: 2px solid #efefef;
+  border-radius: 0;
+}
+.cid-rKZKHv7CjG .cards-container {
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+  word-break: break-word;
+}
+@media (max-width: 767px) {
+  .cid-rKZKHv7CjG .panel-item {
+    flex-direction: column;
+    align-items: center;
+  }
+  .cid-rKZKHv7CjG .panel-item .card-img {
+    padding: 0;
+    padding-bottom: 1rem;
+  }
+}
+.cid-rKZLvzvr8A {
+  background: #149dcc;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #149dcc, #ffffff);
+}
+.cid-rKZLvzvr8A .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rKZLvzvr8A .video-block {
+    width: 100% !important;
+  }
+}
